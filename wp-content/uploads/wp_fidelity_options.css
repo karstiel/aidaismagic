@@ -1,0 +1,66 @@
+
+.top-bar-section ul ul li a:hover, .btn-primary, .ef-theme-bg, .ef-metro-icn.ef-theme-bg, .top-bar-section ul li.active > a, .top-bar-section ul li.active:hover > a, .ef-social-bar, .ef-fullscreen-mode #progress-bar, #ef-widgets .tagcloud a:hover, .ef-progress-bar div div, .tagcloud a, #ef-loader i, .ui-accordion .ui-accordion-header .ui-accordion-header-icon, .ui-tabs .ui-tabs-nav li.ui-tabs-active, #ef-gallery .flex-direction-nav a:hover, #commentform .btn.send, #sb-progress span, .ef-author-posts, #ef-gallery-info-pane .pagination > .active > a, #ef-gallery-info-pane .pagination > .active > a:hover, #ef-gallery-info-pane .pagination > .active > a:focus, .likeThis, .ef-marker, .wpcf7-submit, .post-slider-direct-nav .post-slider-next:hover, .post-slider-direct-nav .post-slider-prev:hover, .ef-slide .wp-caption-text {
+
+	background-color: #dd3333;
+
+}
+
+#slide_desc a.btn.ef-hollow-btn, #prevslide:hover, #nextslide:hover, #ef-locations ul .icn-location:before, #commentform label span, #ef-gal-prev:hover, #ef-gal-next:hover, .ef-contact-slider .ui-slider-handle.ui-state-hover, .post-slider-prev:hover, .post-slider-next:hover, #ef-copyrights a:hover, .ef-widget a:hover, #ef-widgets a:hover, #ef-gallery-outer .flex-direction-nav a:hover, #ef-widgets .widget_calendar a:hover, #ef-widgets .widget_recent_comments a:hover, .ef-attachment-nav a:hover, .page-template-templateshome-template-php #ef-tray-button:hover, #ef-map-overlay:before, #ef-show-map, #ef-loading-msg span:before {
+
+	color: #dd3333;
+	
+}
+
+.ef-thumb.flex-active-slide:after, .ui-tabs .ui-tabs-nav li.ui-tabs-active, .ef-contact-slider .ui-slider-handle, .btn.btn-primary, .btn.btn-primary.disabled, .btn.btn-primary[disabled], fieldset[disabled] .btn.btn-primary, .btn.btn-primary.disabled:hover, .btn.btn-primary[disabled]:hover, fieldset[disabled] .btn.btn-primary:hover, .btn.btn-primary.disabled:focus, .btn.btn-primary[disabled]:focus, fieldset[disabled] .btn.btn-primary:focus, .btn.btn-primary.disabled:active, .btn.btn-primary[disabled]:active, fieldset[disabled] .btn.btn-primary:active, .btn.btn-primary.disabled.active, .btn.btn-primary[disabled].active, fieldset[disabled] .btn.btn-primary.active, #ef-gallery-info-pane .pagination > .active > a, #ef-gallery-info-pane .pagination > .active > a:hover, #ef-gallery-info-pane .pagination > .active > a:focus, #ef-map-overlay:before, .ef-marker, #ef-footer .qtrans_language_chooser li.active, #ef-widgets .qtrans_language_chooser li.active {
+
+	border-color: #dd3333;
+	
+}
+
+.ef-tabs.ui-tabs .ui-tabs-panel {
+
+	border-top-color: #dd3333;
+
+}
+
+
+/* A bit darker tone for hovering and better readability */
+
+a, .social-btn-list a:hover, #cancel-comment-reply-link, #ef-widgets-tab:hover, #ef-widgets-tab.ef-show-widgets, #ef-tray-button:hover {
+
+	color: #c91f1f;
+
+}
+
+.btn.btn-primary:hover, .btn.btn-primary:focus, .btn.btn-primary:active, .btn.btn-primary.active, .open .dropdown-toggle.btn.btn-primary {
+
+	border-color: #c91f1f;
+
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary, .likeThis:hover {
+
+	background-color: #c91f1f;
+
+}
+
+/* End main colors */
+
+
+h1, h2, h3, h4, h5, #sb-title-inner, #ef-loading-msg {
+
+	font-family: "Amaranth", sans-serif;
+		font-weight: normal;	
+}
+
+
+
+body, blockquote small, .ef-body-font, #ef-site-description, #cancel-comment-reply-link, .ef-date-comment time, .ef-style-title a, h3 .likeThis {
+
+	font-family: "Open Sans", sans-serif;
+
+}
+
+
+/* Custom CSS */
+

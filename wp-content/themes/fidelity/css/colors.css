@@ -1,0 +1,177 @@
+/* Start main colors */
+
+.top-bar-section ul ul li a:hover, .btn-primary, .ef-theme-bg, .ef-metro-icn.ef-theme-bg, .top-bar-section ul li.active > a, .top-bar-section ul li.active:hover > a, .ef-social-bar, .ef-fullscreen-mode #progress-bar, #ef-widgets .tagcloud a:hover, .ef-progress-bar div div, .tagcloud a, #ef-loader i, .ui-accordion .ui-accordion-header .ui-accordion-header-icon, .ui-tabs .ui-tabs-nav li.ui-tabs-active, #ef-gallery .flex-direction-nav a:hover, #commentform .btn.send, #sb-progress span, .ef-author-posts, #ef-gallery-info-pane .pagination > .active > a, #ef-gallery-info-pane .pagination > .active > a:hover, #ef-gallery-info-pane .pagination > .active > a:focus, .likeThis, .ef-marker, .wpcf7-submit, .post-slider-direct-nav .post-slider-next:hover, .post-slider-direct-nav .post-slider-prev:hover, .ef-slide .wp-caption-text {
+	background-color: #f1b669;
+}
+
+#slide_desc a.btn.ef-hollow-btn, #prevslide:hover, #nextslide:hover, #ef-locations ul .icn-location:before, #commentform label span, #ef-gal-prev:hover, #ef-gal-next:hover, .ef-contact-slider .ui-slider-handle.ui-state-hover, .post-slider-prev:hover, .post-slider-next:hover, #ef-copyrights a:hover, .ef-widget a:hover, #ef-widgets a:hover, #ef-gallery-outer .flex-direction-nav a:hover, #ef-widgets .widget_calendar a:hover, #ef-widgets .widget_recent_comments a:hover, .ef-attachment-nav a:hover, .page-template-templateshome-template-php #ef-tray-button:hover, #ef-map-overlay:before, #ef-show-map, #ef-loading-msg span:before {
+	color: #f1b669;
+}
+
+.ef-thumb.flex-active-slide:after, .ui-tabs .ui-tabs-nav li.ui-tabs-active, .ef-contact-slider .ui-slider-handle, .btn.btn-primary, .btn.btn-primary.disabled, .btn.btn-primary[disabled], fieldset[disabled] .btn.btn-primary, .btn.btn-primary.disabled:hover, .btn.btn-primary[disabled]:hover, fieldset[disabled] .btn.btn-primary:hover, .btn.btn-primary.disabled:focus, .btn.btn-primary[disabled]:focus, fieldset[disabled] .btn.btn-primary:focus, .btn.btn-primary.disabled:active, .btn.btn-primary[disabled]:active, fieldset[disabled] .btn.btn-primary:active, .btn.btn-primary.disabled.active, .btn.btn-primary[disabled].active, fieldset[disabled] .btn.btn-primary.active, #ef-gallery-info-pane .pagination > .active > a, #ef-gallery-info-pane .pagination > .active > a:hover, #ef-gallery-info-pane .pagination > .active > a:focus, #ef-map-overlay:before, .ef-marker, #ef-footer .qtrans_language_chooser li.active, #ef-widgets .qtrans_language_chooser li.active {
+	border-color: #f1b669;
+}
+
+.ef-tabs.ui-tabs .ui-tabs-panel {
+	border-top-color: #f1b669;
+}
+
+/* A bit darker tone for hovering and better readability */
+
+a, .social-btn-list a:hover, #cancel-comment-reply-link, #ef-widgets-tab:hover, #ef-widgets-tab.ef-show-widgets, #ef-tray-button:hover {
+	color: #ea973e;
+}
+
+.btn.btn-primary:hover, .btn.btn-primary:focus, .btn.btn-primary:active, .btn.btn-primary.active, .open .dropdown-toggle.btn.btn-primary {
+	border-color: #ea973e;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary, .likeThis:hover {
+	background-color: #ea973e;
+}
+
+/* End main colors */
+
+.top-bar, .toggle-topbar.menu-icon a, .top-bar-section ul li > a, .top-bar-section ul li:hover > a, .top-bar-section ul li.active > a, .top-bar-section .dropdown li.title h5 a, .ef-social-bar a, #slidecounter, #slidecaption, #ef-widgets h6, .ef-proj-img h4, #prevslide, #nextslide, .ef-post:hover .ef-read-more, .tagcloud a, #ef-widgets .ef-widget ul.wp-tag-cloud a,  #ef-sidebar .ef-widget ul.wp-tag-cloud a, .ef-post-slider-ctrls *, .ef-label, #ef-gal-prev, #ef-gal-next, #ef-gallery-title, #slide_desc p, #slide_desc h1, #slide_desc h2, #slide_desc h3, #slide_desc h4, #slide_desc h5, #slide_desc h6, .ef-metro-icn, .ef-preloader i, #ef-gallery .flex-direction-nav a, #commentform .btn.send, #sb-custom-prev:hover, #sb-custom-next:hover, #sb-custom-close:hover, #sb-custom-play:hover:after, .ef-social-bar li a:hover, .post-slider-prev:focus, .post-slider-next:focus, .tagcloud a:hover, .tagcloud a:focus, #ef-copyrights a, .ef-footer-search #searchform input, #ef-show-hide-search, .ef-pass, #ef-widgets input[type="text"], .ef-portfolio-dark #ef-loading-msg, .page-template-templatesgallery-template-php #ef-loading-msg, .page-template-templateshome-template-php #ef-loading-msg, .ef-author-posts, #ef-gallery-outer .flex-direction-nav a:active, .ef-portfolio-dark .pagination > li > a:hover, .ef-portfolio-dark .pagination > .active > a, .ef-portfolio-dark .pagination > .active > a:hover, .ef-portfolio-dark .pagination > .active > a:focus, #ef-gallery-info-pane .pagination > .active > a, #ef-gallery-info-pane .pagination > .active > a:hover, #ef-gallery-info-pane .pagination > .active > a:focus, #ef-gallery-info-pane ul.flex-direction-nav a, #ef-widgets .widget_calendar a, #ef-widgets .widget_calendar caption, #ef-widgets .widget_recent_comments a, .likeThis:hover, .likeThis, .likeThis:active, .likeThis:focus, .ef-blog .format-quote .ef-proj-img *, .ef-featured-img blockquote, .ef-featured-img blockquote *, .ef-marker, .ef-marker:hover, .ef-marker:active, .ef-marker:focus, .ef-locations-inner strong, .page-template-templateshome-template-php #ef-tray-button, #ef-show-map:hover, #ef-show-map:active, #ef-show-map:focus, .wpcf7-submit, .post-slider-direct-nav .post-slider-next:hover, .post-slider-direct-nav .post-slider-prev:hover, .ef-archive-meta-inner, a.ef-author-posts:hover, a.ef-author-posts:focus, a.ef-author-posts:active, #slide_desc .btn.btn-primary:hover, #ef-widgets .widget_qtranslate select, #lang_sel_click a.lang_sel_sel, #lang_sel_click a.lang_sel_sel:hover, #ef-footer #lang_sel a.lang_sel_sel, #ef-widgets #lang_sel a.lang_sel_sel, #ef-footer #lang_sel_click ul ul a, #ef-footer #lang_sel_list a.lang_sel_sel, #ef-widgets #lang_sel_list a.lang_sel_sel, #ef-footer #lang_sel_list ul a, #ef-widgets #lang_sel_list ul a {
+	color: #fff;
+}
+
+#ef-logo, .top-bar.expanded .title-area, .top-bar-section ul, #ef-header, #ef-head-inner, .ef-hl-content, .ef-fullscreen-mode #ef-tray-button, .ef-blog .ef-post-inner, .ef-links-holder, #ef-page, .ef-sticky-page .ef-page-inner, .ef-contact-slider-holder, .ef-contact-slider .ui-slider-handle, .social-btn-list ul, .ef-archive-meta, .pagination, .ef-page-links, .ef-author-info, .page-template-templatesportfolio-template-php #ef-page, .page-template-templatesportfolio-template-php.ef-fullwidth-page #ef-page, #ef-gallery-info-pane .pagination > li > a, .ef-preloader, .ef-page-sidebar, .ef-featured-img, .widget_calendar #today, #ef-sidebar .widget_calendar caption, .ef-edit-attachment-link a, .page-template-templatesportfolio-template-php .ef-pagination, .page-template-templatesportfolio-template-php .pagination > .active > a, .page-template-templatesportfolio-template-php .pagination > .active > a:hover, .page-template-templatesportfolio-template-php .pagination > .active > a:focus, .ef-blog .ef-fake-header, .flickr_badge_image a, #ef-sidebar .qtrans_language_chooser li {
+	background-color: #fff;
+}
+
+#ef-gallery .flex-active-slide img, .page-template-templatesgallery-template-php .pagination > li > a, .ef-currrent-marker .ef-marker, .ef-currrent-marker .ef-marker:hover {
+	border-color: #fff;
+}
+
+.ef-post-info:before, .ef-blog .ef-post .sticky .ef-post-inner {
+	background-color: #f5f5f5;
+}
+
+.ef-page-inner, .ef-fullwidth-page #ef-page, #ef-comments #commentform input[type="text"], #ef-comments #commentform input[type="email"], #ef-comments #commentform textarea, .page-template-templatesblog-template-php .ef-pagination, .page-template-templatesblog-template-php .pagination > .active > a, .page-template-templatesblog-template-php .pagination > .active > a:hover, .page-template-templatesblog-template-php .pagination > .active > a:focus {
+	background-color: #f1f1f1;
+}
+
+#ef-widgets .form-control:-moz-placeholder, #ef-footer .form-control:-moz-placeholder {
+	color: #eaeaea;
+}
+
+#ef-widgets .form-control::-moz-placeholder, #ef-footer .form-control::-moz-placeholder {
+	color: #eaeaea;
+}
+
+#ef-widgets .form-control:-ms-input-placeholder, #ef-footer .form-control:-ms-input-placeholder {
+	color: #eaeaea;
+}
+
+#ef-widgets .form-control::-webkit-input-placeholder, #ef-footer .form-control::-webkit-input-placeholder {
+	color: #eaeaea;
+}
+
+.top-bar-section .dropdown li a, #ef-widgets, .ef-post-author, #ef-gallery-info-pane, #ef-widgets a, #ef-gallery-outer .flex-direction-nav a, .ef-portfolio-dark .pagination {
+    color: #bababa;
+}
+
+#ef-footer, .ef-post-info {
+	color: #a1a1a1;
+}
+
+.ef-locations-inner {
+	color: #e5e5e5;
+}
+
+.ef-post-inner, .page-template-templatesblog-template-php .ef-post, .ef-post:hover .ef-proj-img, .ef-links-holder, .ef-lnk, .ef-post-info, .ef-read-more, #ef-exif ul li, .ef-page-inner .ef-hl-content hr, .ui-accordion .ui-accordion-header, .ui-tabs .ui-tabs-panel, .ui-tabs .ui-tabs-nav li, #commentform input:focus, #commentform textarea:focus, .ef-contact-slider-holder, .ef-archive-meta, .page-template-templatesportfolio-template-php .ef-page-links, .ef-preloader, .form-control, .wpcf7-form-control-wrap input, .wpcf7-form-control-wrap textarea, .btn, .ef-comment, .qtrans_language_chooser li {
+	border-color: #e5e5e5;
+}
+
+.ef-page-inner hr, .pagination, .pagination > li > a, .pagination > .active > a, .pagination > .active > a:hover, .pagination > .active > a:focus, #ef-sidebar, .widget_calendar td#prev, .widget_calendar td#next, .widget_calendar table tfoot, #ef-sidebar .ef-widget li, .btn:hover, .form-control:focus {
+	border-color: #e0e0e0;
+}
+
+.top-bar.expanded .toggle-topbar a, .ef-contact-slider, #sb-custom-close, .ef-contact-slider .ui-slider-handle, .social-btn-list a {
+	color: #888888;
+}
+
+.btn.ef-hollow-btn.btn-default, #ef-sidebar .qtrans_language_chooser li.active {
+	border-color: #8a8a8a;
+}
+
+.back.js-generated, #ef-widgets .tagcloud a, #sb-counter, #ef-show-hide-search:hover, #ef-widgets .widget_calendar caption, .ef-blog .format-quote .ef-proj-img, .ef-featured-img blockquote {
+	background-color: #707070;
+}
+
+body, h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, .ef-post-info-inner a:hover, .ef-post-author a:hover, .ef-prev-post:hover, .ef-next-post:hover, #ef-sidebar .ef-widget a:hover, .wpcf7-form-control-wrap input, .wpcf7-form-control-wrap textarea, .sticky.post.type-post .ef-post-excerpt h4:before {
+	color: #606060;
+}
+
+.btn.btn-default.ef-hollow-btn:hover, .btn.btn-default.ef-hollow-btn:focus, .btn.btn-default.ef-hollow-btn:active, .btn.btn-default.ef-hollow-btn.active, .open .dropdown-toggle.btn-default, #ef-gallery-info-pane, #ef-gallery-outer .flex-direction-nav a, #ef-gallery-info-pane ul.flex-direction-nav a, #ef-gallery-info-pane li, #ef-widgets .form-control, #ef-widgets .widget_qtranslate select, #ef-widgets .qtrans_language_chooser li, #ef-widgets #lang_sel_click a, #ef-widgets #lang_sel a.lang_sel_sel {
+	border-color: #606060;
+}
+
+.ef-portfolio-dark.page-template-templatesportfolio-template-php .pagination, .ef-portfolio-dark.page-template-templatesportfolio-template-php .pagination > li > a, #ef-widgets .widget_calendar td#prev, #ef-widgets .widget_calendar td#next, #ef-widgets .widget_calendar table tfoot, #ef-widgets .widget_calendar caption, #ef-widgets .widget_calendar table, #ef-widgets .widget_calendar tbody, #ef-widgets .widget_calendar thead, #ef-widgets .ef-widget li, .ef-marker:hover, #ef-footer #lang_sel_click a, #ef-footer #lang_sel_click ul ul, #ef-footer #lang_sel a.lang_sel_sel, #ef-footer #lang_sel li, #ef-footer #lang_sel_list.lang_sel_list_vertical a, #ef-footer #lang_sel_list.lang_sel_list_vertical ul, #ef-widgets #lang_sel_list.lang_sel_list_vertical a, #ef-widgets #lang_sel_list.lang_sel_list_vertical ul {
+	border-color: #404040;
+}
+
+.top-bar-section .dropdown li a, .top-bar-section ul li > a, .top-bar.expanded, .top-bar .toggle-topbar, .ef-read-more:after, .tagcloud a:hover, .ef-label, .ef-metro-icn, #commentform .btn.send:hover, #sb-custom-prev:hover, #sb-custom-next:hover, #sb-custom-play:hover, .ef-marker:hover, .ef-archive-meta-inner, a.ef-author-posts:hover {
+	background-color: #404040;
+}
+
+h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, a:hover, a:focus, .btn.ef-hollow-btn:hover, .ef-links-holder a, #ef-filter a, .ef-post-info a, .ef-post-author a, .ef-prev-post, .ef-next-post, #ef-locations ul .icn-location, #sb-title, .alert a, .is-404, #cancel-comment-reply-link:hover, #infscr-loading, #ef-loading-msg, .pagination > .active > a, .pagination > .active > a:hover, .pagination > .active > a:focus, .widget_calendar #today, #ef-sidebar .ef-widget a, .ef-fullscreen-mode #ef-tray-button, #ef-tray-button, #ef-widgets-tab {
+	color: #262626;
+}
+
+#ef-widgets-pane, #ef-footer #lang_sel_click ul ul a {
+	background-color: #303030;
+	background-color: rgba(30,30,30,.9);
+}
+
+#ef-map-overlay {
+	background-color: #202020;
+	background-color: rgba(0,0,0,.65);
+}
+
+#ef-loader, #ef-gallery-info-pane, .pace, #ef-gallery .flex-direction-nav a, .ef-portfolio-dark #ef-page, .ef-portfolio-dark .pagination, .page-template-templatesportfolio-template-php.ef-portfolio-dark #ef-page, .ef-portfolio-dark .pagination > li > a, .ef-portfolio-dark .pagination > .active > a, .ef-portfolio-dark .pagination > .active > a:hover, .ef-portfolio-dark .pagination > .active > a:focus, .ef-locations-inner {
+	background-color: #202020;
+}
+
+body {
+	background-color: #000;
+}
+
+#ef-gallery-info-pane ul.flex-direction-nav a:hover {
+	background-color: rgba(255,255,255,0.1);
+}
+
+#ef-footer, .ef-post-slider-ctrls, .ef-proj-img h4 {
+	background-color: #000;
+	background-color: rgba(0,0,0,.7);
+}
+
+@media only screen and (min-width: 801px) {
+
+	.top-bar-section li.hover > a, .top-bar-section li:hover > a {
+		color: #fff;
+	}
+
+	.top-bar-section ul li > a {
+		background-color: transparent;
+	}
+
+	.top-bar-section ul li:hover > a, .top-bar .top-bar-section ul li.active > a, .top-bar .top-bar-section ul li.active:hover > a {
+		background-color: #404040;
+	}
+
+	.top-bar-section ul li > a {
+		color: #262626;
+	}
+
+}
+
+@media only screen and (max-width: 801px) {
+	.top-bar .top-bar-section ul ul li a:hover {
+		background-color: #404040;
+	}
+	.title-area {
+		border-color: #606060;
+	}
+}
